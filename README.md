@@ -1,6 +1,6 @@
 # Robot-Platoon
 In this project, we were tasked to program the FHICT bot. The goal of the project is:
-   * To apply embedded systems and software design topics such as C/C++ programming, low-level embedded control, timing, interrupts and feedback-control systems
+   * To apply embedded systems and software design topics such as C/C++ programming, low-level embedded control (CMSIS), timing, interrupts and feedback-control systems
    * To apply communication knowledge  for IoT communication (optional)
    * to analyse, design, implement, and test this project in a structured way
 
